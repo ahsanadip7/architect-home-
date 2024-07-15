@@ -322,6 +322,7 @@
 .sponsor-img-container{
     display: flex;
     gap: 155px;
+    filter: grayscale(100%);
 }
 .footer-cotainer{
     text-align: center;
